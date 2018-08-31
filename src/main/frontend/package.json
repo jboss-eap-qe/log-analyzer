@@ -1,0 +1,38 @@
+{
+  "name": "mapseries-presentation-javascript",
+  "description": "",
+  "author": "",
+  "private": true,
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "static",
+  "scripts": {
+    "build": "gulp"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-register": "^6.26.0",
+    "css-loader": "^0.28.7",
+    "del": "^3.0.0",
+    "extract-text-webpack-plugin": "^3.0.0",
+    "file-loader": "^0.11.2",
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-util": "^3.0.8",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.5",
+    "run-sequence": "^2.2.0",
+    "style-loader": "^0.18.2",
+    "url-loader": "^0.5.9",
+    "webpack": "^3.6.0",
+    "webpack-stream": "^4.0.0"
+  },
+  "dependencies": {
+    "bootbox": "^4.4.0",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
